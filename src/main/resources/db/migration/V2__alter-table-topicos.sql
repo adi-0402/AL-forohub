@@ -1,0 +1,1 @@
+alter table topicos change column fechaCreacion fecha_creacion varchar(50);
