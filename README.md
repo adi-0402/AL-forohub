@@ -1,7 +1,7 @@
 ---
 
 # ForoHub - API de Gestión de Tópicos
-[Badge-Spring](demo/Badge-Spring.png}
+![Badge-Spring](demo/Badge-Spring.png}
 
 ---
 
@@ -39,18 +39,18 @@ ForoHub es una solución robusta para la gestión de tópicos en un entorno de f
 ---
 ## 🎞 Demostración
 
-[demo1](demo/demo_1.png)
+![demo](demo/demo_1.png)
 
-[demo1](demo/demo_2.png)
+![demo](demo/demo_2.png)
 
-[demo1](demo/demo_3.png)
+![demo](demo/demo_3.png)
 
-[demo1](demo/demo_4.png)
+![demo](demo/demo_4.png)
 
-[demo1](demo/demo_5.png)
+![demo](demo/demo_5.png)
 
-[demo1](demo/demo_6.png)
+![demo](demo/demo_6.png)
 
-[demo1](demo/demo_7.png)
+![demo](demo/demo_7.png)
 
 ---
