@@ -33,14 +33,24 @@ ForoHub es una API desarrollada para gestionar tópicos en un foro. Permite regi
 
 ---
 
+## ✨ Conclusiones
+ForoHub es una solución robusta para la gestión de tópicos en un entorno de foros en línea. Su arquitectura está diseñada para garantizar la seguridad, escalabilidad y facilidad de uso. La integración de JWT asegura que las operaciones sean realizadas únicamente por usuarios autenticados.
+
+---
 ## 🎞 Demostración
 
 [demo1](demo/demo_1.png)
+
 [demo1](demo/demo_2.png)
+
 [demo1](demo/demo_3.png)
+
 [demo1](demo/demo_4.png)
+
 [demo1](demo/demo_5.png)
+
 [demo1](demo/demo_6.png)
+
 [demo1](demo/demo_7.png)
 
 ---
