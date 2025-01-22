@@ -1,8 +1,7 @@
 ---
 
 # ForoHub - API de Gestión de Tópicos
-
-![Badge-Spring](demo/Badge-Spring.png}
+![Badge-Spring](demo/Badge-Spring.png)
 
 ---
 
