@@ -1,6 +1,7 @@
 package com.aluracursos.forohub.controller;
 
 import com.aluracursos.forohub.domain.*;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +13,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
-
+@SecurityRequirement(name = "bearer-key")
 @RestController
 @RequestMapping("/topicos")
 public class TopicoController {
